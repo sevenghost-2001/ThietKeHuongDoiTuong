@@ -6,4 +6,5 @@ Login cho khach hang:
 
 
 Import file database.sql vào XAMPP PHPMyAdmin để lấy CSDL
-//
+
+/* table nguoidung chua csdl cua user: role = 0 => admin || role = 1 => khach hang */
