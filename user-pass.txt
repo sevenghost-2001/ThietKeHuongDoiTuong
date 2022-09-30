@@ -1,5 +1,0 @@
-khach: admin
-pass: 7418529630
-
-admin: tcb
-pass: 123456789
