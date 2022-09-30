@@ -4,7 +4,7 @@
 <head>
     <base href="http://localhost:8080/banquanaohuongdoituong/Trangchu">
     <meta charset="UTF-8">
-    <title>Book Store</title>
+    <title>4Men - Nền tảng mua sắm thời trang uy tín - chất lượng</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="ChiTietSP.html03a6f3">
     <link rel="stylesheet" href="public/css/bootstrap.min.css">
@@ -25,7 +25,7 @@
                         <h5>Website bán quần áo trực tuyến Nhóm 4Men</h5>
                     </div>
                     <div class="col-md-3">
-                        <span class="ph-number">SĐT: 0909 090 909</span>
+                        <span class="ph-number">SĐT: 0918 878 802</span>
                     </div>
                 </div>
             </div>

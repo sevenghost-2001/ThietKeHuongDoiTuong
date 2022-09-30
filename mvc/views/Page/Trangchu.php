@@ -13,7 +13,7 @@
                                     <div class="title">
                                         <h3>Chào mừng bạn đến với Website bán quần áo của Nhóm 4Men</h3>
                                         <h5>Nơi thỏa mãn đam mê thời trang của bạn</h5>
-                                        <a href="DanhMucSanPham.html" class="btn">Sách Hay</a>
+                                        <a href="DanhMucSanPham.html" class="btn">Tìm Sản Phẩm</a>
                                     </div>
                                 </div>
                             </div>
@@ -25,7 +25,7 @@
                                     <div class="title">
                                         <h3>Chào mừng bạn đến với Website bán quần áo của Nhóm 4Men</h3>
                                         <h5>Nơi thỏa mãn đam mê thời trang của bạn</h5>
-                                        <a href="DanhMucSanPham.html" class="btn">Sách Hay</a>
+                                        <a href="DanhMucSanPham.html" class="btn">Tìm Sản Phẩm</a>
                                     </div>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@
                                     <div class="title">
                                         <h3>Chào mừng bạn đến với Website bán quần áo của Nhóm 4Men</h3>
                                         <h5>Nơi thỏa mãn đam mê thời trang của bạn</h5>
-                                        <a href="DanhMucSanPham.html" class="btn">Sách Hay</a>
+                                        <a href="DanhMucSanPham.html" class="btn">Tìm Sản Phẩm</a>
                                     </div>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@
                                     <div class="title">
                                         <h3>Chào mừng bạn đến với Website bán quần áo của Nhóm 4Men</h3>
                                         <h5>Nơi thỏa mãn đam mê thời trang của bạn</h5>
-                                        <a href="DanhMucSanPham.html" class="btn">Sách Hay</a>
+                                        <a href="DanhMucSanPham.html" class="btn">Tìm Sản Phẩm</a>
                                     </div>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@
                            Nền tảng bán quần áo trực tuyến đầy uy tín của chúng tôi - Nhóm 4Men
                         </p>
                         <div class="btn-sec">
-                            <a href="DanhMucSanPham.html" class="btn yellow">Sách hay</a>
+                            <a href="DanhMucSanPham.html" class="btn yellow">Tìm Sản Phẩm</a>
                             <a href="http://localhost:8080/banquanaohuongdoituong/Logined/Dangnhap" class="btn black">Đăng nhập</a>
                         </div>
                     </div>
