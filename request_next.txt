@@ -1,0 +1,5 @@
+-- Sửa ảnh (giao diện index): --
+
+trong phpmyadmin mysql >> bảng sanpham >> down ảnh mới >> link tên ảnh mới
+
+

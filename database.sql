@@ -133,7 +133,7 @@ INSERT INTO `sanpham` (`idsanpham`, `tensanpham`, `anh`, `gia`, `idtheloai`, `la
 (4, 'Phạm Văn Đồng và những chặng đường lịch sử', 'public/images/anh1.jpg', 60000, 3, 151),
 (26, 'Luyện viết tiếng anh', 'public/images/AnhSanPham1105010122052.jpg', 40000, 5, 435),
 (27, 'Trí tuệ của doanh nhân', 'public/images/AnhSanPham1115010237281.jpg', 40000, 5, 285),
-(28, 'Tiểu sử Võ Nguyên Giáp', 'public/images/anhVoNguyenGiap.jpg', 50000, 3, 112),
+(28, 'Quần Kaki A Nam ống dài', 'public/images/anhVoNguyenGiap.jpg', 50000, 3, 112),
 (29, 'lịch sử', 'public/images/anh1_3.jpg', 230000, 5, 461);
 
 -- --------------------------------------------------------
