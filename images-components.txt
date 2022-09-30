@@ -1,0 +1,8 @@
+images/r1.jpg  quần
+	r2			áo
+	r3			giày
+	r4 			giày
+r5 giày
+r6 dép
+r7 dép
+r8..r12 mũ
