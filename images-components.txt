@@ -1,8 +1,8 @@
-images/r1.jpg  		quần
-	.../r2			áo
-	.../r3			giày
-	.../r4 			giày
-	.../r5 			giày
-	.../r6 			dép
-	.../r7 			dép
-	.../r8..r12 	mũ
+images/r1.jpg  		quần Jean Skinny Stretch Denim - Xanh Indigo-0089
+	.../r2			áo Thun Nike V105
+	.../r3			giày Converse Chuck Taylor All Star 1970s Cổ Cao
+	.../r4 			giày Converse Chuck Taylor White 1970s Cổ Thấp
+	.../r5 			giày Converse Desert Regeneration Obsidian Cổ Thấp
+	.../r6 			dép Gucci Web Rubber Slide 429469 GIB10
+	.../r7 			dép Dolce Gabbana Leopard-Print Rubber Slides
+	.../r8..r12 	mũ Nike Mũ lưỡi trai Feather Light Black Grey 595510-069 unisex
