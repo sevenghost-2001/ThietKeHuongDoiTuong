@@ -24,7 +24,7 @@
                                 <div class="content">
                                     <div class="title">
                                         <h3>Chào mừng bạn đến với Website bán quần áo của Nhóm 4Men</h3>
-                                        <h5>Nơi thỏa mãn đam mê thời trang của bạn</h5>
+                                        <h5>Vẻ đẹp quyến rũ thời trang pháp</h5>
                                         <a href="DanhMucSanPham.html" class="btn">Tìm Sản Phẩm</a>
                                     </div>
                                 </div>
@@ -36,7 +36,7 @@
                                 <div class="content">
                                     <div class="title">
                                         <h3>Chào mừng bạn đến với Website bán quần áo của Nhóm 4Men</h3>
-                                        <h5>Nơi thỏa mãn đam mê thời trang của bạn</h5>
+                                        <h5>Tiên phong dự báo thời trang</h5>
                                         <a href="DanhMucSanPham.html" class="btn">Tìm Sản Phẩm</a>
                                     </div>
                                 </div>
@@ -48,7 +48,7 @@
                                 <div class="content">
                                     <div class="title">
                                         <h3>Chào mừng bạn đến với Website bán quần áo của Nhóm 4Men</h3>
-                                        <h5>Nơi thỏa mãn đam mê thời trang của bạn</h5>
+                                        <h5>Dù tốt hay xấu, hãy là chính bạn</h5>
                                         <a href="DanhMucSanPham.html" class="btn">Tìm Sản Phẩm</a>
                                     </div>
                                 </div>
@@ -103,7 +103,7 @@
     <section class="recomended-sec">
         <div class="container">
             <div class="title">
-                <h2>quần áo bán chạy</h2>
+                <h2>Sản phẩm bán "siêu" chạy</h2>
                 <hr>
             </div>
             <!-- Hien thi san pham -->
@@ -141,31 +141,31 @@
         <div class="container">
             <div id="testimonal" class="owl-carousel owl-theme">
                 <div class="item">
-                    <h3>Nếu bạn chỉ đọc những cuốn quần áo mà tất cả mọi người đều đọc, bạn chỉ có thể nghĩ tới điều tất cả mọi người đều nghĩ tới.</h3>
+                    <h3>Thời trang là liều thuốc truyền cho mỗi con người sức mạnh tinh thần to lớn.</h3>
                     <div class="box-user">
-                        <h4 class="author">SHaruki Murakami</h4>
-                        <span class="country">Australia</span>
+                        <h4 class="author">Văn Trung</h4>
+                        <span class="country">Việt Nam</span>
                     </div>
                 </div>
                 <div class="item">
-                    <h3>Việc đọc rất quan trọng. Nếu bạn biết cách đọc, cả thế giới sẽ mở ra cho bạn.</h3>
+                    <h3>Tạo hóa ban cho ta vẻ đẹp thể chất. Ý chí ban cho ta vẻ đẹp cá tính</h3>
                     <div class="box-user">
-                        <h4 class="author">Barack Obama</h4>
-                        <span class="country">USA</span>
+                        <h4 class="author">Hoàng Tùng</h4>
+                        <span class="country">Việt Nam</span>
                     </div>
                 </div>
                 <div class="item">
-                    <h3>Dù tôi không thể nhớ những cuốn quần áo tôi từng đọc cũng như những bữa tôi từng ăn, nhưng chúng đều làm nên con người tôi.</h3>
+                    <h3>Vẻ đẹp của lòng trắc ẩn là vẻ đẹp đáng trân quý nhất.</h3>
                     <div class="box-user">
-                        <h4 class="author">Ralph Waldo Emesson</h4>
-                        <span class="country">Germany</span>
+                        <h4 class="author">Anh Kha</h4>
+                        <span class="country">Việt Nam</span>
                     </div>
                 </div>
                 <div class="item">
-                    <h3>Những quyển quần áo là những tấm gương: bạn chỉ nhìn thấy trong gương những gì bạn có bên trong bạn.</h3>
+                    <h3>Cách ăn mặc cũng một phần đánh giá con người bạn.</h3>
                     <div class="box-user">
-                        <h4 class="author">Mahatma Gandhi</h4>
-                        <span class="country">UK</span>
+                        <h4 class="author">Chí Công</h4>
+                        <span class="country">Việt Nam</span>
                     </div>
                 </div>
             </div>
@@ -203,9 +203,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="share align-middle">
-                            <span class="fb"><i class="fa fa-facebook-official"></i></span>
-                            <span class="instagram"><i class="fa fa-instagram"></i></span>
-                            <span class="twitter"><i class="fa fa-twitter"></i></span>
+                            <span class="fb"><a href="https://www.facebook.com/nguyentuanhung12345" target="_blank"> <i class="fa fa-facebook-official"></i> </a></span>                            <span class="instagram"><i class="fa fa-instagram"></i></span>
+                            <span class="twitter"><a href="https://www.instagram.com/hoangtung_2710" target="_blank"> <i class="fa fa-twitter"></i> </a> </span>
                             <span class="pinterest"><i class="fa fa-pinterest"></i></span>
                             <span class="google"><i class="fa fa-google-plus"></i></span>
                         </div>

@@ -71,9 +71,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="share align-middle">
-                            <span class="fb"><i class="fa fa-facebook-official"></i></span>
-                            <span class="instagram"><i class="fa fa-instagram"></i></span>
-                            <span class="twitter"><i class="fa fa-twitter"></i></span>
+                            <span class="fb"><a href="https://www.facebook.com/nguyentuanhung12345" target="_blank"> <i class="fa fa-facebook-official"></i> </a></span>                            <span class="instagram"><i class="fa fa-instagram"></i></span>
+                            <span class="twitter"><a href="https://www.instagram.com/hoangtung_2710" target="_blank"> <i class="fa fa-twitter"></i> </a> </span>
                             <span class="pinterest"><i class="fa fa-pinterest"></i></span>
                             <span class="google"><i class="fa fa-google-plus"></i></span>
                         </div>
